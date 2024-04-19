@@ -1,5 +1,5 @@
 /******************************************************************************
-Autor: Isabela de Paula Castro, 824145
+Autor: Isabela de Paula Castro
 Data de Criação: 08/04/2024
 Data de Modificação: 17/04/2024
 Objetivo: Calcular a media de CAP
